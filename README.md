@@ -12,6 +12,6 @@ voila gui.ipynb
 ```
 
 ## Training (& Further Discussion)
-Read the notebook `train.ipynb` to train your own model that can be exported.
+Read the notebook `train.ipynb` to train your own model that can be exported, and to understand the whole project.
 
 #### For best viewing, load the notebooks on Google Colab, especially if you want to train well.
